@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaximumOfNumbers", "FindMaximumOfNumbers.csproj", "{FBEE74C5-D853-4E36-AA36-ACFF95E92143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEE74C5-D853-4E36-AA36-ACFF95E92143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEE74C5-D853-4E36-AA36-ACFF95E92143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEE74C5-D853-4E36-AA36-ACFF95E92143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEE74C5-D853-4E36-AA36-ACFF95E92143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E306AD1D-6641-4E59-BC61-4187392E9E9A}
+	EndGlobalSection
+EndGlobal
